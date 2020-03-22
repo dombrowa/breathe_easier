@@ -36,7 +36,7 @@ Hopefully, it will let the quarantined patients have an ease-of-mind and breathe
     * [3d printer and material selection guide](test_result_database/)
     * [Audio recordings](test_result_database/recordings/)
 3. Kit assembly guide
-4. Design file repos
+4. [Design file repos](design_repos/)
 5. Calibration procedures and quality control standards
 6. Instruction and promotion videos
 7. Other materials
