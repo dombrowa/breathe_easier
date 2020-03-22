@@ -28,12 +28,13 @@ Hopefully, it will let the quarantined patients have an ease-of-mind and breathe
 
 
 ## Folder structure:
-1. Stethoscope selection guide
+1. [Stethoscope selection guide](stethoscope_selection_guide.md)
 2. 3d printer and material selection guide
-3. Design file repos
-4. Calibration procedures and quality control standards
-5. Instruction and promotion videos
-6. Other materials
+3. Complete set test matrix
+4. Design file repos
+5. Calibration procedures and quality control standards
+6. Instruction and promotion videos
+7. Other materials
 
 
 ## Todos:
