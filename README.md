@@ -1,11 +1,14 @@
-# Disclaim:
-# Mar-21-2020 
-**This is NOT a FDA approved medical device! Use at your own risk!
-This is NOT a FDA approved medical device! Use at your own risk!
-This is NOT a FDA approved medical device! Use at your own risk!**
+# Breathe Easier
 
+### Disclaims:
+#### Mar-21-2020 
+**This is NOT a FDA approved medical device! Use at your own risk!**
 
-# HELP seeking:
+**This is NOT a FDA approved medical device! Use at your own risk!**
+
+**This is NOT a FDA approved medical device! Use at your own risk!**
+
+### HELP seeking
 1. FDA approval process experts
 2. Legal experts in medical device
 3. Medical professionals (family doctors, nurses) with expertise in Stethoscope diagnosis
@@ -13,7 +16,7 @@ This is NOT a FDA approved medical device! Use at your own risk!**
 5. Distribution channel and supply chain resources
 
 
-# Breathe Easier
+## Introduction
 We create an affordable, 3d-printable, pure mechanical adapter to connect any stethoscope with smartphone's microphone.
 
 We are facing a crisis of COVID-19 outbreak. Many infected people are quarantined at home because the scarcity of hospital capacity. But these people still needs medical attention. Doctors are monitoring them through telemedicine platforms.
