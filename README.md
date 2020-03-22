@@ -1,3 +1,18 @@
+# Disclaim:
+# Mar-21-2020 
+**This is NOT a FDA approved medical device! Use at your own risk!
+This is NOT a FDA approved medical device! Use at your own risk!
+This is NOT a FDA approved medical device! Use at your own risk!**
+
+
+# HELP seeking:
+1. FDA approval process experts
+2. Legal experts in medical device
+3. Medical professionals (family doctors, nurses) with expertise in Stethoscope diagnosis
+4. 3d printer owners, designers and hobbyists
+5. Distribution channel and supply chain resources
+
+
 # Breathe Easier
 We create an affordable, 3d-printable, pure mechanical adapter to connect any stethoscope with smartphone's microphone.
 
@@ -11,12 +26,31 @@ The purpose of this project is to design a 3D-printable adapter for people to co
 
 Hopefully, it will let the quarantined patients have an ease-of-mind and breathe eaiser knowing that they are being taken care of.
 
-## Todos:
 
+## Folder structure:
+1. Stethoscope selection guide
+2. 3d printer and material selection guide
+3. Design file repos
+4. Calibration procedures and quality control standards
+5. Instruction and promotion videos
+6. Other materials
+
+
+## Todos:
 ### Phase 1:
+1. Validate design's structural and acoustic properties.
+2. Work with medical professionals to create calibration procedures and quality control standards.
+3. Use quality control standard to validate different 3d printers and materials; create selection guidance database. 
+4. Findout about distribution channels. 
 
 ### Phase 2:
+1. Test device with healthy subjects. 
+2. Test device with volunteer patients.
+3. Make video instruction on how to assemble and use the device.
+4. Distribute kits.
 
 ### Phase 3:
+create AI/ML based acoustic analysis service
 
 ### Phase 4:
+setup enterprise content management service
