@@ -1,4 +1,4 @@
-# Stethoscope Selection Guide
+# 3D Printers and Materials Selection Guide
 
 ## recommendings:
 
@@ -17,6 +17,8 @@ brand | model | price | reasons/comments | vendor link
 
 ## waiting for test (volunteer tester needed, welcome to add new candidates):
 
-brand | model | price | comments | vendor link
+brand | model | materials | comments
 --- | --- | --- | --- | --- 
-ADC Adscope | Lite 619 | ~$30 | aluminum finish | [amazon](https://www.amazon.com/gp/product/B081ZVG8BM/)
+Monoprice  | MP10 Mini | PLA 3D Printer Filament, SUNLU PLA Plus Filament 1.75mm | waiting 
+Prusa | mk3 | PLA | sound not loud enough (Alan, more detail?)
+ |  | PETG | same as PLA
